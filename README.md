@@ -1,34 +1,44 @@
 # Deniz Kusefoglu
 
-_Senior Software Engineer @ InfluxData_ <br>
+I'm an infrastructure engineer with experience optimizing systems for large scale traffic, and an engineering leader who builds human centered teams that ship the right thing, on time. I'm looking for my next position.
 
 [denizkusef@gmail.com](mailto:denizkusef@gmail.com) / [LinkedIn](https://www.linkedin.com/in/deniz-kusefoglu-ab032313/) / [GitHub](https://github.com/ebb-tide/)
 
-I work on the deployments team at InfluxData. My work includes ensuring that our software is rolling out continuously on our clusters across the globe, and building tools to empower internal teams to build, test, and deploy our software. I used to work on the UI team, creating user interfaces and tools for data visualization. As a senior engineer, some of my proudest work has been in organizational communication and coordination of work across teams. I'm excited about the future of programming interfaces: in 2016 I studied this and more at The Recurse Center. I have been a student of Mathematics and Neuroscience - and one of my papers was once published in the journal Neuron.
+## 💻  Experience
 
-## 💻 Technical Experience
+**Engineering Manager** @ [Vercel](https://www.vercel.com/) _(January 2022 - January 2023)_ <br>
+  - Managed a previously struggling team through delivering a large multi-quarter project, successfully and on time
+  - Led the collection and dashboarding of latency, cost, and success metrics, communicated tradeoffs to stakeholders for effective decision making
+  - Supported wider team and manager peers through organizational change 
+  - Led quarterly planning and prioritization cycles 
+  - Created new hiring pipeline and led a successful hiring round for an engineering position
+  <br>
 
-**Senior Engineer** @ [InfluxData](https://www.influxdata.com/) _(Sept 2017 - Present)_ <br>
-InfluxData maintains the InfluxDB time-series database and SAAS platform.
-  - **DevOps Team** _(Sept 2020 - Present)_ <br>
-    - Managed and oversaw software deployments in our mutli-cloud (AWS, Azure, GCP) multi-region clusters using Kubernetes and Jsonnet.
-    - Wrote Jsonnet configurations to deploy and manage our applications in Kubernetes.
+**L2 Software Engineer- Edge Infrastructure** @ [Vercel](https://www.vercel.com/) _(October 2022 - January 2022)_ <br>
+  - Maintained and optimized systems responsible for serving XX requests per day. 
+  - Architected and executed optimizations that lowered our "time to first byte" metrics from XX to XX. 
+  - Led incident response, and eventually lowered the rate of incidents by building better runbooks and on call training.
+  - Mentored and upleveled L1 engineers. 
+  - **_Technologies used:_** Lua, Nginx, Go, Terraform.
+  <br>
+
+**Senior Software Engineer** @ [InfluxData](https://www.influxdata.com/) _(Sept 2017 - October 2022)_ <br>
+InfluxData maintains the InfluxDB cloud platform and open source time-series database.
+  - **DevOps Team** _(Sept 2020 - October 2022)_ <br>
+    - Managed and oversaw software deployments in our mutli-cloud (AWS, Azure, GCP) multi-region Kubernetes clusters.
     - Implemented end-to-end testing in our CI/CD pipeline to enforce API contracts between services.
     - Created tools to enable internal developers to iterate on their local machines using kubernetes in docker (kind).
     - Designed and built a new serverless query endpoint product, working closely with customers and product development teams to iterate on UX.
     - **_Technologies used:_** Kubernetes, ArgoCD, Jsonnet, Go, bash.
   <br>
-  - **UI Team** _(Sept 2017 - Sept 2020)_ <br>
+  - **Frontend Team** _(Sept 2017 - Sept 2020)_ <br>
     - Developed the open-source data visualization and UI platform [Chronograf](https://github.com/influxdata/chronograf).
-    - Architected the API for the 2.x SAAS cloud platform product.
-    - Designed features and UX in collaboration with Product and design teams iterating to achieve product-market fit.
-    - Scoped, designed and built "Sample Data" backend feature to allow users to easily demo our product.
-    - Scoped, designed and built the "templates" feature to allow users to export and import resources.
+    - Architected the API for the SAAS cloud platform product.
+    - Designed features and UX in collaboration with Product and Design teams.
+    - Led implementation of the "Sample Data" feature to allow users to easily demo our product.
+    - Led implementation of the "Templates" feature to allow users to export and import resources.
     - Implemented the LSP server integration for InfluxDB's data scripting and query language [flux](https://www.influxdata.com/products/flux/).
-    - Built a monitoring & eventing suite with an InfluxDB backend to monitor utilization of our UI.
-    - Conducted interviews and led hiring discussions.
-    - Mentored new hires and interns.
-    - **_Technologies used:_** React, JavaScript, TypeScript, Go. 
+    - **_Technologies used:_** React, TypeScript, Go. 
 <br><br>
 
 ## 🎤 Public Speaking
@@ -42,10 +52,10 @@ InfluxData maintains the InfluxDB time-series database and SAAS platform.
 - **Recurse Center** focused on full-stack JavaScript<br>
 [The Recurse Center](https://www.recurse.com/) - New York, New York _(Oct 2016 - January 2017)_ <br>
 <br>
-- **MSc in Neuroscience** created a map of neuronal connections using automated image analysis and novel imaging techniques<br>
+- **MSc in Neuroscience** created a map of neuronal connections using computational image analysis and novel imaging techniques<br>
 [Howard Hughes Medical Center](https://www.janelia.org/) - Ashburn, Virginia _(Sept 2009 - June 2013)_ <br>
 <br>
-- **BSc in Mathematics** Abstract Mathematics and Computational Biology<br>
+- **BSc in Mathematics** Mathematics and Computational Biology<br>
 [The University of Chicago](https://www.uchicago.edu/) - Chicago, Illinois _(Sept 2001 - June 2006)_ <br>
     
 ## 📃 Research Publications
